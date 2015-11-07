@@ -115,6 +115,8 @@ GitHub がいろいろ便利でいい感じなので、 GitHub のアカウン�
 
 ### PR を作る
 
+[EMOJI CHEAT SHEET](http://www.emoji-cheat-sheet.com/)
+
 ### PR コメントでレビューする
 
 ### PR をマージする
